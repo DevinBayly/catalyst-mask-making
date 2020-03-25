@@ -2,9 +2,14 @@
 
 This repo represents the work of the team at UArizona to produce face shields for the Banner Medical group. 
 
+**Goal: modify this design https://hackaday.io/project/170542-face-shield-laser-cuttable in useful ways, without compromising the quick fab strengths of laser cutting**
+
+
+
+
 ## Ways to interact
 
-Post in issue threads
+Post in issue threads (please look here first)
 
 Upload models in this google drive repository
 url: https://drive.google.com/drive/folders/1NTsTSJv6hKVQQkKA8G3dRZ0typ6K4vXS?usp=sharing
