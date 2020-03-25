@@ -2,6 +2,17 @@
 
 This repo represents the work of the team at UArizona to produce face shields for the Banner Medical group. 
 
+## Ways to interact
+
+Post in issue threads
+
+Upload models in this google drive repository
+url: https://drive.google.com/drive/folders/1NTsTSJv6hKVQQkKA8G3dRZ0typ6K4vXS?usp=sharing
+
+## 
+
+
+
 ## Meeting notes
 
 **Wed, 25 Mar 2020 18:41:51 GMT: 0.164**
