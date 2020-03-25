@@ -17,6 +17,8 @@ url: https://drive.google.com/drive/folders/1NTsTSJv6hKVQQkKA8G3dRZ0typ6K4vXS?us
 
 **Wed, 25 Mar 2020 18:41:51 GMT: 0.164**
 
+!! design for all laser cut https://hackaday.io/project/170542-face-shield-laser-cuttable
+
 Goal: not 3D printing, all laser cut 
 https://www.reddit.com/r/MakeMasks/
 name of model to recreate prusa
